@@ -16,18 +16,7 @@ This project includes well-structured components designed with the **best design
 - **React.js** – Component-based front-end framework.
 - **Tailwind CSS** – For modern and responsive UI.
 - **React Router** – For seamless navigation.
+- **Slick Slider** – For Sliding Products.
 - **Vite** – Fast development and optimized build.
 
-## 📌 How to Run the Project
-```sh
-# Clone the repository
-git clone https://github.com/mohamedelhefenawy/E-commerce-Go-Smart.git
 
-# Navigate to the project folder
-cd E-commerce-Go-Smart
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
