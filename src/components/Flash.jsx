@@ -123,7 +123,7 @@ export default function Flash() {
     arrows: false, // Disable default arrows as we are using custom arrows
     responsive: [
       {
-        breakpoint: 1280,
+        breakpoint: 1330,
         settings: {
           slidesToShow: 3,
           slidesToScroll: 1,
