@@ -1,8 +1,12 @@
 
-import { useState } from "react"
-import { NavLink , Link } from "react-router-dom"
+import { useEffect, useState } from "react"
+import { NavLink , Link, useNavigate } from "react-router-dom"
 export default function Navbar() {
   const [open , setOpen] = useState(false)
+  const navigate = useNavigate()
+  useEffect(()=>{
+setOpen(false)
+  },[navigate])
   return (
     <div className="w-full">
     <nav className="w-[80%] mx-auto flex justify-between items-center mt-10 mb-4 font-poppins ">

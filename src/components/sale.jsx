@@ -4,7 +4,7 @@ export default function Sale() {
 <div className="bg-black text-white font-poppins text-sm p-6 font-medium  ">
 
   {/* Left Section */}
-  <div className=" flex justify-between text-center items-center flex-col md:flex-row gap-4 md:gap-0   w-[80%] mx-auto ">
+  <div className=" flex justify-between text-center items-center flex-col lg:flex-row gap-2  w-[80%] mx-auto ">
   <div className="flex flex-1  justify-center flex-col md:flex-row  gap-2 md:w-full  ">
     <h1>Summer Sale For All Swim Suits And Free Express Delivery - OFF 50%!</h1>
     <h2 className="font-bold underline cursor-pointer">ShopNow</h2>

@@ -9,6 +9,7 @@ import Signup from "./pages/Signup"
 import Footer from "./components/footer"
 
 function App() {
+  
   return (
     <div>
       <Sale/>

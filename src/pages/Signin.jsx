@@ -13,7 +13,7 @@ export default function Signin() {
         <input type='password' placeholder='Password' className='border-b border-gray-400  outline-none'/>
         <div className='flex items-center justify-between'> 
             <button className='bg-[#DB4444] text-white py-4 px-12 rounded-sm'>Login</button>
-            <h4 className='text-[#DB4444]'>Forgot Password?</h4>
+            <h4 className='text-[#DB4444] cursor-pointer'>Forgot Password?</h4>
             
             </div>
         

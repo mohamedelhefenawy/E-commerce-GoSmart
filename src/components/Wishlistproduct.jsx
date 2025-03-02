@@ -38,7 +38,7 @@ export default function Wishlistproduct({
             {/* Icons */}
             <div className="absolute right-4 top-4 flex flex-col gap-2">
               {type ==='wishlist'&&
-              (<div className="bg-white p-1 icon-group rounded-full limit hover:bg-red-400 transition-colors">
+              (<div className="bg-white p-1 icon-group rounded-full ">
                 <img src="icons/Frame 568.svg" alt="heart" className="w-6 h-6 cursor-pointer icon-group-hover:invert " />
               </div>)}
              {type==='view' &&(<div className="bg-white p-1 rounded-full icon-group hover:bg-red-400 transition-colors">

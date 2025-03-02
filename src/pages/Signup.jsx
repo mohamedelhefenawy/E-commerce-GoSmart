@@ -20,7 +20,7 @@ export default function Signup() {
             Sign Up With Google
             </button>
         <div className='flex items-center gap-4'>
-            <h4 className='text-gray-400 flex items-center gap-4 justify-center w-full'>Already have an account? <span className='underline underline-offset-4 text-black' onClick={()=>navigate('/signin')}>log in</span></h4>
+            <h4 className='text-gray-400 flex items-center gap-4 justify-center w-full'>Already have an account? <span className='underline underline-offset-4 text-black cursor-pointer' onClick={()=>navigate('/signin')}>log in</span></h4>
         </div>
       </div>
     </div>
