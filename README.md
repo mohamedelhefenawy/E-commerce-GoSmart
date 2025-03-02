@@ -15,7 +15,6 @@ This project includes well-structured components designed with the **best design
 ## 🖥️ Technologies Used
 - **React.js** – Component-based front-end framework.
 - **Tailwind CSS** – For modern and responsive UI.
-- **Context API / Redux** – State management.
 - **React Router** – For seamless navigation.
 - **Vite** – Fast development and optimized build.
 
